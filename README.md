@@ -29,3 +29,5 @@ apt-get install rkhunter
    ```bash
       rkhunter -c
 ```
+## Installing custom linux kernal 
+ - [Complete docs](https://github.com/b-khan7276/Linux-Rootkit-Red-Blue-Teams/blob/main/01_installing_Custon_linux_kernal.md)
